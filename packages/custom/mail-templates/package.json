@@ -13,7 +13,7 @@
   "dependencies": {
     "ejs": "^2.3.4",
     "email-templates": "^2.0.1",
-    "emblem": "^0.6.1",
+    "emblem": "^0.11.1",
     "handlebars": "^4.0.2",
     "jade": "^1.11.0",
     "less": "^2.5.1",
