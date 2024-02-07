@@ -20903,9 +20903,9 @@
       }
     },
     "view-helpers": {
-      "version": "0.1.5",
-      "resolved": "https://registry.npmjs.org/view-helpers/-/view-helpers-0.1.5.tgz",
-      "integrity": "sha512-QEKslKG/I4L0YsymBovP0Qy1Kg2zYURRF7X0MaOWF0wUUKTnAjbCT34ylFcqYBiv3wadG6R4O3n6DxIM5fZskg=="
+      "version": "0.2.0",
+      "resolved": "https://registry.npmjs.org/view-helpers/-/view-helpers-0.2.0.tgz",
+      "integrity": "sha512-RsGFpjxCheLVjL6yj2ACaaKI+DRetmckFPPbDO38kq52rjeJbfa7ca+zmqsEh2rAWwBs5qx8Mnn7x7Fhi8vtSw=="
     },
     "vinyl": {
       "version": "2.2.0",
